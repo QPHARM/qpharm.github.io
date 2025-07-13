@@ -1,4 +1,4 @@
-# QPHARM's M&S Blog
+# QPHARM
 
 This is the blog maintained by Biopharmacetuic Lab at KHU. 
 
