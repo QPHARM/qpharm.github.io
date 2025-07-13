@@ -16,8 +16,6 @@ timezone: Asia/Seoul
 
 title: QPHARM- Quantifying the Odyssey of a Drug # the main title
 
-# Content Settings
-excerpt_separator: "<!--more-->"
 
 tagline: Pharmacokinetics, ADME, Dissolution, PopPK, PBPK, Modeling & Simulation # it will display as the subtitle
 
