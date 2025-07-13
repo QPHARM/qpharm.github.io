@@ -1,0 +1,12 @@
+{%- comment -%}
+  Get post description or generate it from the post excerpt.
+{%- endcomment -%}
+{%- assign max_length = include.max_length | default: 200 -%}
+{%- capture description -%}
+{%- if post.description -%}
+  {{- post.description -}}
+{%- else -%}
+  {{- post.excerpt | strip_html | strip_newlines -}}
+{%- endif -%}
+{%- endcapture -%}
+{{- description | strip | truncate: max_length | escape -}}
