@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings ??https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ??--------------------------
 
-title: QPHARM- Quantifying the Odyssey of a Drug # the main title
+title: QPHARM- <br>Quantifying the <br>Odyssey of a <br>Drug # the main title
 
 
 tagline: Pharmacokinetics, ADME, Dissolution, PopPK, PBPK, Modeling & Simulation # it will display as the subtitle
