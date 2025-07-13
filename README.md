@@ -4,7 +4,7 @@ This is the blog maintained by Biopharmacetuic Lab at KHU.
 
 ## Usage
 
-Check out the manual[manual].
+Check out the [manual][manual].
 
 ## Contributors
 
